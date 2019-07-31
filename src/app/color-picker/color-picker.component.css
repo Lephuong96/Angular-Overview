@@ -1,0 +1,14 @@
+label{
+  color: blue;
+}
+h2{
+  color: blue;
+}
+p{
+  color: #888888;
+}
+
+.color-preview {
+  width: 300px;
+  height: 100px;
+}

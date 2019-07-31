@@ -1,0 +1,13 @@
+label{
+  color: blue;
+}
+h2{
+  color: blue;
+}
+p{
+  color: #888888;
+}
+
+.form-input {
+  border: 1px solid salmon;
+}
